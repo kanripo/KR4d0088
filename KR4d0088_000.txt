@@ -32,6 +32,8 @@
 　弘治丁巳秋九月朔石淙楊一清識¶
 <pb:KR4d0088_SBCK_000-2b>¶
 <pb:KR4d0088_SBCK_000-2b>¶
+# SB1_0997-144.png
+
 #+PROPERTY: JUAN 0
 #+PROPERTY: FILE SB04n0183-000后山詩註-目録.
 <pb:KR4d0088_SBCK_000-3a>¶
